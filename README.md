@@ -12,7 +12,7 @@ This project presents a pipeline for detecting software vulnerabilities in C/C++
 
 ## Data Preparation
 
-* Download the [Big-Vul dataset](https://github.com/DeepSoftwareAnalytics/Big-Vul) 
+* Download the [Big-Vul dataset](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)
 
 ## Results
 
@@ -62,6 +62,3 @@ Refer to the notebook for full validation curves and per-epoch metrics.
 
 This was a university project for LLM course, colaborated with @Mina-Gharenazi and @rokkovach.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
